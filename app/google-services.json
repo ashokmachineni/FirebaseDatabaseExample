@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "550070873876",
+    "firebase_url": "https://firuites.firebaseio.com",
+    "project_id": "firuites",
+    "storage_bucket": "firuites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550070873876:android:f467fd34a4511c23",
+        "android_client_info": {
+          "package_name": "com.coderefer.firebasedatabaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550070873876-cedvkajoepob7vkcm6uqnitrt6jo5gff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRe9AkQupy6w-KQBQAKXUlK527jC71-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
